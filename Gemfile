@@ -24,6 +24,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'haml'
 gem 'bootstrap-sass'
 gem 'simple_form'
+gem 'devise'
 
 
 # Use jquery as the JavaScript library
